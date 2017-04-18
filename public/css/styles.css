@@ -1,0 +1,67 @@
+.panel {
+    padding: 1%;
+}
+
+.main-content {
+  padding: 1em;
+}
+
+.rounded {
+  border-radius: 5px;
+}
+
+.trend {
+  font-size: 12px;
+  color: #8899A6;
+  margin: 0.5em 0
+}
+
+.trend p {
+  color: #8899A6;
+}
+
+.trend-link strong {
+  color: #1DA1F2;
+}
+
+.max-container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.paddingless {
+  padding: 0;
+}
+
+h6.small-title {
+  font-size: 0.8em;
+}
+
+h6.m-y-1 {
+  margin: 0.5em 0 0.1em;
+}
+
+.user-data {
+  font-size: 1.2em;
+}
+
+.content a:not(.button) {
+  border-bottom: none;
+}
+
+.hlight h6:hover, .hlight span:hover {
+  color: #1DA1F2;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
+.hover-strong:hover {
+  font-weight: bold;
+}
+
+.navvv {
+  padding-left: 360px;
+  padding-right: 360px;
+}
